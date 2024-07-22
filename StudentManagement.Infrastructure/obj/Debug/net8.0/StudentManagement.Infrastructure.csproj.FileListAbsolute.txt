@@ -1,0 +1,15 @@
+C:\Users\User\source\repos\StudentManagement\StudentManagement.Infrastructure\bin\Debug\net8.0\StudentManagement.Infrastructure.deps.json
+C:\Users\User\source\repos\StudentManagement\StudentManagement.Infrastructure\bin\Debug\net8.0\StudentManagement.Infrastructure.dll
+C:\Users\User\source\repos\StudentManagement\StudentManagement.Infrastructure\bin\Debug\net8.0\StudentManagement.Infrastructure.pdb
+C:\Users\User\source\repos\StudentManagement\StudentManagement.Infrastructure\bin\Debug\net8.0\StudentManagement.Domain.dll
+C:\Users\User\source\repos\StudentManagement\StudentManagement.Infrastructure\bin\Debug\net8.0\StudentManagement.Domain.pdb
+C:\Users\User\source\repos\StudentManagement\StudentManagement.Infrastructure\obj\Debug\net8.0\StudentManagement.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\StudentManagement\StudentManagement.Infrastructure\obj\Debug\net8.0\StudentManagement.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\StudentManagement\StudentManagement.Infrastructure\obj\Debug\net8.0\StudentManagement.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\StudentManagement\StudentManagement.Infrastructure\obj\Debug\net8.0\StudentManagement.Infrastructure.AssemblyInfo.cs
+C:\Users\User\source\repos\StudentManagement\StudentManagement.Infrastructure\obj\Debug\net8.0\StudentManagement.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\StudentManagement\StudentManagement.Infrastructure\obj\Debug\net8.0\StudentM.54534901.Up2Date
+C:\Users\User\source\repos\StudentManagement\StudentManagement.Infrastructure\obj\Debug\net8.0\StudentManagement.Infrastructure.dll
+C:\Users\User\source\repos\StudentManagement\StudentManagement.Infrastructure\obj\Debug\net8.0\refint\StudentManagement.Infrastructure.dll
+C:\Users\User\source\repos\StudentManagement\StudentManagement.Infrastructure\obj\Debug\net8.0\StudentManagement.Infrastructure.pdb
+C:\Users\User\source\repos\StudentManagement\StudentManagement.Infrastructure\obj\Debug\net8.0\ref\StudentManagement.Infrastructure.dll
